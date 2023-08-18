@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SC-Attrs-lesson-1/static/css/main.ec08ae03.css",
+    "main.js": "/SC-Attrs-lesson-1/static/js/main.7e1a2249.js",
+    "static/js/787.25eaef86.chunk.js": "/SC-Attrs-lesson-1/static/js/787.25eaef86.chunk.js",
+    "index.html": "/SC-Attrs-lesson-1/index.html",
+    "main.ec08ae03.css.map": "/SC-Attrs-lesson-1/static/css/main.ec08ae03.css.map",
+    "main.7e1a2249.js.map": "/SC-Attrs-lesson-1/static/js/main.7e1a2249.js.map",
+    "787.25eaef86.chunk.js.map": "/SC-Attrs-lesson-1/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec08ae03.css",
+    "static/js/main.7e1a2249.js"
+  ]
+}
